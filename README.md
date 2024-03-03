@@ -1,4 +1,4 @@
-# Client-ServerDevelopment
+# Client-Server Development
 
 To write programs that are maintainable, readable, and adaptable, it is important to use clear, descriptive naming conventions, modularize code, document code, and keep the code a s simple as possible. Using clear and descriptive naming conventions makes the program easier to follow and requires collaborators to take less time reading comments and documentation as a barrier to entry for understanding the program. Modularizing code allows developers to make online modifications to the program without needed to take the whole site down. It also makes it easier to reuse sections of code for various purposes, simplifying the program and reducing the sheer amount of code required. Documenting code is important for improving readability and conveying ideas and purpose in a plain language or diagram format. This can save a ton of time when code is shared among many collaborators, or even when it is a program that the original developer themselves will need to return to to modify. Less assumptions need to be made when modifying a well-documented program with well-defined naming conventions. 
 
